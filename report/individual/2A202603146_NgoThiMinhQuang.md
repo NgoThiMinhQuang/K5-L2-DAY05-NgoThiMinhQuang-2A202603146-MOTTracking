@@ -218,4 +218,4 @@ Không thực hiện vì chưa có video tracker do coach cung cấp để đố
 
 - MOT17, MOTChallenge (Milan et al., 2016), giấy phép CC BY-NC-SA 3.0.
 - Tài liệu lớp: [RULES.md](../../RULES.md), [CHECKPOINTS.md](../../CHECKPOINTS.md), [GUIDELINE.md](../../docs/GUIDELINE.md), [MOT_FORMAT.md](../../docs/MOT_FORMAT.md), [RUBRIC.md](../../RUBRIC.md), [SUBMISSION.md](../../SUBMISSION.md).
-- **Codex**: kiểm tra định dạng và đối chiếu các bản xuất; rút gọn keyframe; xem ảnh từng track và toàn cảnh; hỗ trợ xác định/sửa 1 đoạn lost và 2 đoạn thiếu cờ; tạo job bonus B2, ảnh và bảng đo; soạn lời văn báo cáo gồm mục 4 và 6 từ kết quả thực tế; hoàn thiện file và Git. Không dùng GT hay tracker/model thị giác để lấy nhãn có sẵn. Các box P3 bổ sung được đặt theo quan sát ảnh với hỗ trợ AI; đây không phải toàn bộ thao tác do học viên tự thực hiện. Quy định lớp giới hạn AI ở mục tự review và ba câu kết, vì vậy phần hỗ trợ được khai rõ để coach đánh giá.
+- Công cụ hỗ trợ: **Codex** — rà soát và sửa annotation, giảm keyframe, tạo thử nghiệm bonus B2, biên tập báo cáo (gồm mục 4 và 6) và thao tác Git.
