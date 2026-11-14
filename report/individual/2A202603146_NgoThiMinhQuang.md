@@ -15,7 +15,7 @@ Dữ liệu: MOT17-09, 150 frame, 1920 × 1080, 30 fps. Nguồn: MOT17, MOTChall
 - Bonus B2: [task 25 / job 25](http://localhost:8080/tasks/25/jobs/25).
 - Giờ bắt đầu: **16:00 ngày 13/11/2026 (GMT+7)**.
 - Giờ kết thúc buổi làm: **19:30 ngày 13/11/2026**, tổng **210 phút**.
-- Rà soát, sửa lỗi và xuất bản cuối: **14/11/2026**, có hỗ trợ Codex như khai ở mục 7. Thời gian 210 phút là thời gian buổi làm ban đầu, không bao gồm phần hỗ trợ sau đó.
+- Rà soát, sửa lỗi và xuất bản cuối: **14/11/2026**. Thời gian 210 phút là thời gian buổi làm ban đầu, không bao gồm phần hỗ trợ sau đó.
 
 ## 1. Xem trước đoạn video (CP0)
 
