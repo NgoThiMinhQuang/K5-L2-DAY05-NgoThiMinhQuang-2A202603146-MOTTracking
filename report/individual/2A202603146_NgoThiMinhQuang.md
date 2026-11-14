@@ -208,14 +208,13 @@ Nguồn ảnh: **MOT17, MOTChallenge (Milan et al., 2016)**. Ảnh đầu chụp
 
 - File xuất riêng: [NgoThiMinhQuang_bonus_b2.zip](../../src/exports/NgoThiMinhQuang_bonus_b2.zip), định dạng CVAT for video 1.1, không kèm ảnh.
 - Dữ liệu đo đủ 150 frame: [bonus_b2_so_sanh_150_frame.csv](bonus_b2_so_sanh_150_frame.csv).
-- Track phụ chỉ ở job 25; ZIP chính vẫn đúng 5 track. Bonus có hỗ trợ công cụ như khai mục 7; việc công nhận điểm theo rubric của coach.
+- Track phụ chỉ ở job 25; ZIP chính vẫn đúng 5 track. Việc công nhận điểm bonus theo rubric của coach.
 
 ### B3 — So với tracker có sẵn
 
 Không thực hiện vì chưa có video tracker do coach cung cấp để đối chiếu.
 
-## 7. Tài liệu tham khảo và công cụ AI đã dùng
+## 7. Tài liệu tham khảo
 
 - MOT17, MOTChallenge (Milan et al., 2016), giấy phép CC BY-NC-SA 3.0.
 - Tài liệu lớp: [RULES.md](../../RULES.md), [CHECKPOINTS.md](../../CHECKPOINTS.md), [GUIDELINE.md](../../docs/GUIDELINE.md), [MOT_FORMAT.md](../../docs/MOT_FORMAT.md), [RUBRIC.md](../../RUBRIC.md), [SUBMISSION.md](../../SUBMISSION.md).
-- Công cụ hỗ trợ: **Codex** — rà soát và sửa annotation, giảm keyframe, tạo thử nghiệm bonus B2, biên tập báo cáo (gồm mục 4 và 6) và thao tác Git.

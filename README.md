@@ -4,7 +4,7 @@
 
 - [Báo cáo NgoThiMinhQuang, đề B](report/individual/2A202603146_NgoThiMinhQuang.md)
 - [MOT 1.1](src/exports/NgoThiMinhQuang_mot.zip) · [CVAT for video 1.1](src/exports/NgoThiMinhQuang_cvat_video.zip) · [Bonus B2](src/exports/NgoThiMinhQuang_bonus_b2.zip)
-- Bản cuối: **5 track, 675 box, 228 keyframe; tự kiểm 0 lỗi / 0 cảnh báo**. Job chính 24 và job bonus 25 đã completed trên CVAT local. Công cụ AI và phạm vi hỗ trợ được khai trong báo cáo mục 7.
+- Bản cuối: **5 track, 675 box, 228 keyframe; tự kiểm 0 lỗi / 0 cảnh báo**. Job chính 24 và job bonus 25 đã completed trên CVAT local. Quá trình rà soát được trình bày ở mục 4 của báo cáo.
 
 
 > **Loại bài: CÁ NHÂN.** Mỗi học viên chạy script để nhận đề A/B/C theo MSSV và tạo task trên CVAT máy cá nhân, tự review và tự nộp một repo riêng.
