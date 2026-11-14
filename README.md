@@ -1,5 +1,12 @@
 # Lab Ngày 5 — Gán track ID trên 150 frame bằng keyframe và nội suy
 
+## Bài nộp cá nhân — 2A202603146
+
+- [Báo cáo NgoThiMinhQuang, đề B](report/individual/2A202603146_NgoThiMinhQuang.md)
+- [MOT 1.1](src/exports/NgoThiMinhQuang_mot.zip) · [CVAT for video 1.1](src/exports/NgoThiMinhQuang_cvat_video.zip) · [Bonus B2](src/exports/NgoThiMinhQuang_bonus_b2.zip)
+- Bản cuối: **5 track, 675 box, 228 keyframe; tự kiểm 0 lỗi / 0 cảnh báo**. Job chính 24 và job bonus 25 đã completed trên CVAT local. Công cụ AI và phạm vi hỗ trợ được khai trong báo cáo mục 7.
+
+
 > **Loại bài: CÁ NHÂN.** Mỗi học viên chạy script để nhận đề A/B/C theo MSSV và tạo task trên CVAT máy cá nhân, tự review và tự nộp một repo riêng.
 
 Bạn theo dõi **5 người đi bộ** trên **150 frame liên tiếp** (5 giây, 30 fps) của chuỗi MOT17-09 bằng **track mode** trong CVAT. Bạn đặt keyframe ở chỗ nội suy tuyến tính sai, xử lý một đoạn bị che bằng cờ `occluded` / `outside`, tự review ID hai lượt và xuất file **MOT 1.1**.
